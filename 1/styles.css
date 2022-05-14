@@ -1,4 +1,8 @@
 
+body{
+    background:powderblue;
+}
+
 .main-container{
     position:absolute;
     top:50%;
